@@ -80,3 +80,31 @@ Let me know if you’d like to dive deeper—e.g., by sector, prediction horizon
 [16]: https://arxiv.org/abs/2310.02090?utm_source=chatgpt.com "1D-CapsNet-LSTM: A Deep Learning-Based Model for Multi-Step Stock Index Forecasting"
 [17]: https://www.ft.com/content/89d88cbf-a92c-43d2-b8af-88ae26529be0?utm_source=chatgpt.com "Are bigger AI models better stock pickers? Maybe, but probably not"
 [18]: https://www.investopedia.com/articles/investing/041114/simple-overview-quantitative-analysis.asp?utm_source=chatgpt.com "A Simple Overview of Quantitative Analysis"
+- (ChatGPT 8/8/2025) "List 15 mathematical models for forecasting the stock market and match each one to a verbal mental model."
+ChatGPT
+Got it — you want 15 stock market forecasting **mathematical models**, and for each one, a **verbal mental model** that expresses how it works in more intuitive, story-like terms.
+
+Here’s the list:
+
+| #  | Mathematical Model                                                    | Mental Model (“Plain English” Analogy)                                                                                                |
+| -- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| 1  | **ARIMA (AutoRegressive Integrated Moving Average)**                  | Like a weather forecaster looking at yesterday’s temperature, trends over time, and past deviations to predict tomorrow’s conditions. |
+| 2  | **Exponential Smoothing (Holt-Winters)**                              | Like an investor who gives more weight to recent events but never completely forgets the past.                                        |
+| 3  | **Multiple Linear Regression**                                        | Like a chef who tastes a dish and adjusts salt, spice, and sweetness based on each ingredient’s separate influence.                   |
+| 4  | **Vector Autoregression (VAR)**                                       | Like tracking several friends’ moods over time, knowing that each person’s mood affects the others.                                   |
+| 5  | **Cointegration Models (Engle–Granger, Johansen)**                    | Like two dancers tied by an elastic band—each can wander, but they eventually pull back toward each other.                            |
+| 6  | **Kalman Filter**                                                     | Like a sailor constantly correcting a ship’s course based on noisy compass readings.                                                  |
+| 7  | **Hidden Markov Model (HMM)**                                         | Like guessing whether a casino slot machine is in a “generous” or “stingy” mode, even though you can’t see its settings.              |
+| 8  | **GARCH (Generalized Autoregressive Conditional Heteroskedasticity)** | Like a storm tracker who predicts today’s turbulence based on how stormy it was yesterday.                                            |
+| 9  | **Bayesian Structural Time Series (BSTS)**                            | Like a detective combining multiple clues, adjusting confidence as new evidence comes in.                                             |
+| 10 | **Gradient Boosting Trees (XGBoost, LightGBM)**                       | Like a panel of experts, each one correcting the mistakes of the last until they reach a refined consensus.                           |
+| 11 | **Random Forests**                                                    | Like polling many independent scouts in a forest and averaging their sightings to avoid bias.                                         |
+| 12 | **Long Short-Term Memory Networks (LSTM)**                            | Like a skilled storyteller who remembers both the main plot and recent twists in a long saga.                                         |
+| 13 | **Transformer Models (e.g., Temporal Fusion Transformer)**            | Like a conversation partner who can recall any point in the discussion instantly, no matter how far back it was.                      |
+| 14 | **Agent-Based Modeling**                                              | Like running a virtual city where every citizen (trader) follows their own rules, and you watch how the economy evolves.              |
+| 15 | **Monte Carlo Simulation**                                            | Like rolling the dice thousands of times to see all possible futures and picking the most probable ones.                              |
+
+If you like, I can also **group these into three “forecasting tribes”** — statistical, machine learning, and simulation — so you see how the mental models differ in spirit. That would help you know when to use which tool.
+
+Do you want me to arrange them into those tribes next?
+
