@@ -1,0 +1,313 @@
+- (Gemini Full Discussion 8/9/2025) "Provide the top 20 public companies with the highest ratio of Importance to the United States to the market capitalization. This list would provide important companies that do not necessarily have a high market cap."
+Gemini
+Here's my plan to tackle that topic. Let me know if you need to make changes.
+http://googleusercontent.com/deep_research_confirmation_content/0
+User
+"Start research"
+Gemini
+
+Identifying Unsung Pillars: U.S. Companies with Disproportionate National Importance to Market Capitalization
+
+
+I. Executive Summary
+
+This report aims to identify publicly traded companies in the United States whose strategic importance to the nation significantly outweighs their market capitalization. Traditional financial metrics, such as market capitalization, primarily reflect investor perceptions of a company's financial performance and growth potential. However, these metrics often fail to capture the systemic value of entities whose operations are foundational to national security, economic stability, and public welfare. By employing a novel framework that quantifies "Importance to the United States" based on critical infrastructure definitions, this analysis pinpoints "unsung pillars"—companies whose disruption would have debilitating effects on the nation, yet whose market valuations may not fully reflect this profound significance. The top companies identified span vital sectors including defense, nuclear energy, government services, healthcare supply chains, and specialized logistics, highlighting the diverse nature of national criticality.
+
+II. Introduction: Defining National Importance Beyond Market Value
+
+The conventional reliance on market capitalization as the sole indicator of a company's significance can lead to a skewed understanding of corporate influence and strategic value. While a high market capitalization certainly denotes financial strength and market confidence, it frequently overlooks entities whose contributions are indispensable to the core functioning and resilience of a nation. This report addresses this analytical gap by introducing a structured framework for assessing "Importance to the United States," moving beyond purely financial valuations to encompass broader societal and security imperatives.
+The foundational understanding of "Importance to the United States" is rooted in the government's established framework for Critical Infrastructure. The Cybersecurity and Infrastructure Security Agency (CISA) consistently defines "critical infrastructure" as those assets, systems, and networks so vital that their incapacitation or destruction would have a debilitating effect on security, national economic security, national public health, or safety.1 This definition provides a robust, government-backed standard for evaluating a company's national importance, ensuring the analysis is grounded in a recognized public policy context. The approach moves beyond subjective interpretations of significance, anchoring the assessment in established governmental classifications of essential functions and services.4
+The sheer breadth and diversity of the 16 critical infrastructure sectors underscore that national importance is multifaceted, extending far beyond traditional military defense. These sectors, as identified by CISA, include Chemical, Commercial Facilities, Communications, Critical Manufacturing, Dams, Defense Industrial Base, Emergency Services, Energy, Financial Services, Food and Agriculture, Government Facilities, Healthcare and Public Health, Information Technology, Nuclear Facilities, Transportation Systems, and Water and Wastewater Systems.1 This comprehensive list reveals that national importance is not a narrow concept confined to defense; it encompasses the foundational elements of daily life, economic activity, and public safety. For instance, the continuity of sectors like Food and Agriculture, Water and Wastewater, and Healthcare is vital for societal functioning. This broad categorization implies that a company's importance can stem from a wide array of contributions, not solely direct defense contracts. A company's role in enabling society and the economy, even if not directly military-related, can be profoundly significant.
+The rationale for identifying companies with high Importance-to-Market Cap Ratios is clear: market capitalization primarily reflects investor perception of a company's future earnings potential and growth prospects. However, it often fails to capture a company's systemic importance, its irreplaceable role in national function, or the cascading effects of its disruption. This report seeks to identify these "unsung pillars"—companies whose critical contributions are disproportionately high relative to their market valuation, representing a distinct category of national assets whose value transcends conventional financial metrics.
+
+III. Methodology: Quantifying National Importance and Ratio Calculation
+
+To systematically identify companies with a high ratio of national importance to market capitalization, a structured methodology was developed, encompassing a qualitative assessment translated into a numerical scale, rigorous data collection, and a comparative ranking system.
+
+A. Framework for Assessing Importance
+
+The assessment of "Importance to the United States" for each company involved a multi-factor qualitative evaluation, with scores ranging from 1 (minimal) to 5 (critical/dominant) for each criterion. The sum of these scores yielded a total "Importance Score" for each company, with a maximum possible score of 25. The criteria are as follows:
+Direct Operational Role (DOR): This assesses the extent to which the company serves as a primary operator or provider of essential services within a designated critical sector. A higher score indicates a more direct and indispensable operational function.
+Market Share/Dominance (MSD): This criterion evaluates the company's market position, particularly if it holds a significant share or a near-monopoly in a critical service or product. For example, Huntington Ingalls' unique role as the sole builder of nuclear aircraft carriers would yield a high score here.5
+Unique Technological Contributions/Expertise (UTC): This factor considers whether the company provides indispensable, specialized technology, intellectual property, or expertise that is vital to a sector's function or national security. BWX Technologies' expertise in nuclear propulsion components exemplifies this criterion.6
+National Security Contracts/Government Reliance (NSC): This measures the degree to which a significant portion of the company's operations or revenue is derived from direct government contracts for critical services, defense, or intelligence. Companies like Lockheed Martin, RTX, Northrop Grumman, General Dynamics, and Booz Allen Hamilton would score highly here due to their extensive governmental engagements.7
+Supply Chain Centrality/Interdependencies (SCI): This evaluates the company's position as a key node in critical supply chains, where its disruption would have severe cascading effects across multiple sectors. Medical distributors such as McKesson and Cardinal Health, and logistics providers like UPS and FedEx, are prime examples of companies with high supply chain centrality.14
+While not a separate scoring criterion, the severity of potential consequences from a company's incapacitation implicitly informs the overall scoring across the above factors, directly aligning with CISA's definition of a "debilitating effect".1
+A primary consideration in this methodology is the inherent challenge in translating qualitative contributions into numerical scores. Despite the establishment of detailed criteria, the interpretation and weighting of these factors can introduce a degree of subjectivity. The report acknowledges this methodological nuance, striving for consistency in the application of the scoring framework across all evaluated companies.
+
+B. Market Capitalization Data Collection
+
+Market capitalization data for publicly traded U.S. companies was systematically collected from various financial data providers, including Macrotrends, CompaniesMarketCap, StockAnalysis, Forbes, and Investing.com.6 All market capitalization figures are presented in USD Billions, based on the latest available data as of August 2025, or the most recent consistent date across sources. It is recognized that market capitalization data can fluctuate daily and may exhibit minor variations across different financial data sources due to reporting times or calculation methodologies, as observed with companies like Lockheed Martin 20 and RTX.9 To mitigate this, the report utilized the most consistently reported market capitalization for August 2025 or specified the exact date of data extraction for clarity.
+
+C. Ratio Calculation and Ranking
+
+The Importance-to-Market Cap Ratio was calculated using the formula: (Importance Score) / (Market Capitalization in Billions). Companies were then ranked from the highest ratio to the lowest to identify the top 20 entities that demonstrate disproportionate national importance relative to their market valuation.
+
+D. Limitations and Nuances
+
+A significant aspect of this analysis is the recognition of interdependencies and synergies among companies. Many operate across multiple critical sectors or provide services integral to the functioning of other critical infrastructure entities. For example, Information Technology companies like IBM and Microsoft provide critical infrastructure protection solutions that support energy grids and communications networks.53 Similarly, diversified conglomerates such as Honeywell contribute across aerospace, industrial technology, and building automation, impacting various critical sectors.8 While the primary sector categorization for each company is based on its most significant direct contribution, the scoring implicitly accounts for these broader systemic contributions and interconnectedness, acknowledging that a company's importance is rarely siloed.
+
+IV. The Unsung Pillars: Top 20 U.S. Critical Companies by Importance-to-Market Cap Ratio
+
+The following table presents the top 20 U.S. public companies identified through this analysis, ranked by their Importance-to-Market Cap Ratio. This ratio highlights companies whose operational criticality and systemic value to the United States are exceptionally high relative to their market valuation, positioning them as vital, yet potentially undervalued, national assets.
+
+Rank
+Company Name (Ticker)
+Primary Critical Sector(s)
+Key Contributions to U.S. Importance (Summary)
+Market Capitalization (USD Billions)
+Importance Score (out of 25)
+Importance-to-Market Cap Ratio
+1
+Huntington Ingalls Industries (HII)
+Defense Industrial Base
+Sole designer, builder, and refueler of U.S. nuclear aircraft carriers; major partner in Columbia- and Virginia-class submarines; builds amphibious assault ships and destroyers.
+10.46 40
+24
+2.29
+2
+BWX Technologies Inc. (BWXT)
+Nuclear Facilities, Defense Industrial Base
+Provides naval nuclear reactor components for Virginia- and Columbia-class submarines and Ford-class aircraft carriers; involved in defense uranium enrichment and high-purity depleted uranium production for national security.
+14.10 6
+23
+1.63
+3
+Booz Allen Hamilton Holding Corp (BAH)
+Government Facilities, Information Technology
+Leading provider of management and technology consulting, engineering, and cybersecurity services to nearly all U.S. government agencies, military branches, and intelligence community organizations.
+13.65 13
+22
+1.61
+4
+Cardinal Health Inc. (CAH)
+Healthcare and Public Health, Critical Manufacturing
+Global manufacturer and distributor of medical/laboratory products, serving over 75% of U.S. hospitals (90% of U.S. hospitals); operates one of the largest radiopharmacy networks; critical for healthcare supply chain optimization.
+37.57 15
+20
+0.53
+5
+L3Harris Technologies (LHX)
+Defense Industrial Base, Communications
+Provides defense and commercial technologies across air, land, sea, space, and cyber domains, including ISR, communications systems, avionics, and electronic warfare solutions.
+50.46 42
+21
+0.42
+6
+FedEx Corporation (FDX)
+Transportation Systems, Critical Manufacturing
+Offers high-value logistics, express, and ground delivery through an integrated network; "Custom Critical" division handles temperature-controlled (healthcare/pharma), high-security government, hazmat, and disaster recovery shipments.
+53.79 19
+21
+0.39
+7
+American Electric Power (AEP)
+Energy
+One of the largest electricity providers in the U.S., operating diverse power plants (coal, gas, wind, hydro) and an extensive 40,000-mile transmission network across the Midwest and Eastern regions.
+59.84 24
+19
+0.32
+8
+Kinder Morgan, Inc. (KMI)
+Energy
+Major midstream energy infrastructure provider in North America, operating extensive pipelines for natural gas, crude oil, condensate, and refined petroleum products.
+62.40 25
+19
+0.30
+9
+CSX Corporation (CSX)
+Transportation Systems
+Provides rail-based freight transportation services with approximately 20,000 miles of track, access to over 70 ports, and nationwide transloading/warehousing, moving diverse commodities including military equipment.
+66.05 35
+19
+0.29
+10
+United Parcel Service (UPS)
+Transportation Systems, Critical Manufacturing
+Global leader in package delivery and courier services; offers critical perishable goods shipping, healthcare logistics, and emergency response support through a vast global network.
+73.45 18
+21
+0.29
+11
+Northrop Grumman (NOC)
+Defense Industrial Base
+Develops strategic bombers (B-21 Raider), modernizes intercontinental ballistic missile systems (LGM-35 Sentinel), provides military radar/sensors, and space systems; 87% of revenue from U.S. federal government.
+83.20 51
+24
+0.29
+12
+General Dynamics (GD)
+Defense Industrial Base
+Major American defense contractor, building submarines (Nautilus, Trident), military aircraft (F-16), armored vehicles (M1 tank), and advanced electronics; majority revenue from U.S. government.
+84.50 11
+22
+0.26
+13
+CVS Health Corp. (CVS)
+Healthcare and Public Health
+Leading U.S. healthcare company operating retail pharmacies, pharmacy benefit management (PBM) through CVS Caremark (negotiates drug costs, administers networks), and health insurance services.
+83.00 52
+21
+0.25
+14
+McKesson Corp. (MCK)
+Healthcare and Public Health
+Global distributor of branded and generic pharmaceutical drugs and other healthcare-related products; provides specialty pharmaceutical solutions and supports community-based oncology practices.
+83.16 16
+20
+0.24
+15
+Lockheed Martin (LMT)
+Defense Industrial Base
+World's largest defense contractor, specializing in advanced aircraft (F-35), missile defense systems, space technologies, and cybersecurity solutions; majority of business with U.S. Department of Defense.
+99.36 39
+24
+0.24
+16
+Union Pacific (UNP)
+Transportation Systems
+Largest freight railroad in the U.S., operating in 23 states and serving thousands of communities; transports critical goods including coal, chemicals, food, and agricultural products across the nation.
+131.80 47
+20
+0.15
+17
+IBM Corporation (IBM)
+Information Technology, Government Facilities
+Provides enterprise technology, AI, cloud services, and cybersecurity solutions with deep ties to U.S. federal government agencies and enterprises; significant contributions to data infrastructure and supercomputing.
+153.00 56
+21
+0.14
+18
+Honeywell International (HON)
+Critical Manufacturing, Aerospace, Information Technology
+Diversified technology and manufacturing company with strong presence in aerospace (commercial & defense), industrial technology, building automation, and critical infrastructure solutions (cybersecurity, control systems for utilities/data centers).
+137.33 8
+19
+0.14
+19
+NextEra Energy (NEE)
+Energy
+Leading developer of renewable energy in the U.S., with the largest and most diverse portfolio of power generation including wind, solar, battery storage, natural gas, and nuclear.
+149.11 23
+20
+0.13
+20
+Verizon Communications (VZ)
+Communications
+Major telecommunications provider and one of the largest wireless carriers in North America; offers local phone, long distance, wireless, and data services, including significant investments in 5G technology.
+181.93 27
+22
+0.12
+
+
+Company Profiles (Illustrative Examples)
+
+This section provides a more detailed examination of selected companies from the ranked list, illustrating how their unique contributions translate into high national importance despite varying market capitalizations.
+
+1. Huntington Ingalls Industries (HII)
+
+Primary Critical Sector: Defense Industrial Base.1
+Huntington Ingalls Industries (HII) holds an unparalleled position in U.S. national security as the nation's sole designer, builder, and refueler of nuclear-powered aircraft carriers.5 This unique status renders HII an irreplaceable asset. The company is currently engaged in multi-year, multi-billion dollar contracts for the next-generation
+Gerald R. Ford-class aircraft carriers, including a $15.2 billion award for CVN-80 and CVN-81.5 Beyond new construction, HII's Newport News Shipbuilding is the only facility capable of performing the complex, once-in-a-lifetime Refueling and Complex Overhaul (RCOH) for
+Nimitz-class carriers, a massive undertaking critical to extending the lifespan of these strategic assets.5
+Furthermore, HII is a major shipbuilding partner in the Columbia-class and Virginia-class submarine programs, constructing vital module sections for these nuclear-powered vessels.5 The company also contributes significantly to the surface fleet by building amphibious assault ships (such as the
+America-class and San Antonio-class) and Arleigh Burke-class destroyers.5 These contributions are foundational to U.S. naval power, strategic deterrence, and global force projection. The strategic risk associated with any disruption to HII's operations is immense, directly impacting the operational readiness of the U.S. Navy.
+The nature of HII's business involves stable, long-term government contracts that span decades, such as the commitment to deliver one Gerald R. Ford-class carrier every five years starting in 2015.5 This represents an enduring reliance by the U.S. government on HII's specialized capabilities, a strategic value that may not be fully reflected in the company's market capitalization, which is often influenced by shorter-term economic cycles and investor sentiment. The company's critical role in maintaining and advancing the U.S. naval fleet provides a stability and foundational importance that transcends typical market fluctuations. As of August 9, 2025, HII's market capitalization stands at approximately $10.46 billion.40
+
+2. BWX Technologies Inc. (BWXT)
+
+Primary Critical Sector: Nuclear Facilities, Defense Industrial Base.1
+BWX Technologies (BWXT) occupies an extremely specialized and high-barrier-to-entry niche in nuclear propulsion and materials, making it profoundly important to U.S. national security. The company's naval propulsion business is directly tied to the operational readiness and strategic capabilities of the U.S. nuclear fleet, a cornerstone of national defense. BWXT provides naval nuclear reactor components essential for Virginia- and Columbia-class submarines, as well as components for Ford-class aircraft carriers.6
+Recent developments underscore this criticality, with BWXT signing a $2.6 billion pricing agreement for these naval nuclear reactor components over the next eight years, booking over $1 billion in orders in Q2 2025 alone.6 This robust demand is directly linked to ongoing naval shipbuilding programs and the U.S. administration's focus on strengthening the submarine industrial base.6 Beyond naval propulsion, BWXT is involved in critical special materials for national security missions, including defense uranium enrichment and the production of high-purity depleted uranium under contract to the National Nuclear Security Administration (NNSA).6 The immense barriers to entry for this type of work create a de facto monopoly or duopoly in a vital area, meaning their importance is disproportionately high relative to their market capitalization. As of Q2 2025, BWXT's market capitalization was approximately $14.1 billion.6
+
+3. Booz Allen Hamilton Holding Corp (BAH)
+
+Primary Critical Sector: Government Facilities, Information Technology.1
+Booz Allen Hamilton's importance to the United States lies not primarily in physical infrastructure, but in its intellectual capital and strategic guidance. The company is a leading provider of management and technology consulting and engineering services, with deep ties to nearly all U.S. cabinet-level departments and all 18 organizations within the Intelligence Community.13 This deep embedding within the decision-making and operational modernization processes of federal agencies means Booz Allen functions as a vital "soft infrastructure."
+Their services span critical areas such as artificial intelligence, cybersecurity, data science, cloud computing, systems engineering, and digital transformation, all meticulously tailored to address the specific mission needs of federal agencies.13 Examples of their work include developing secure communication systems for battlefield operations and implementing data analytics to improve healthcare delivery for veterans.58 In an increasingly complex and technologically driven threat landscape, this expertise is as critical as physical assets, yet its value may not be fully captured by traditional market metrics. The systemic risk posed by the sudden unavailability of their specialized expertise, which underpins numerous government functions, is substantial. As of August 7, 2025, Booz Allen Hamilton's market capitalization was approximately $13.65 billion.13
+
+4. Cardinal Health Inc. (CAH)
+
+Primary Critical Sector: Healthcare and Public Health, Critical Manufacturing.1
+Cardinal Health is a global manufacturer and distributor of medical and laboratory products, serving a vast majority of the U.S. healthcare system. The company provides medical products to over 75% of hospitals in the United States, including 90% of all U.S. hospitals.14 This extensive reach makes Cardinal Health an indispensable linchpin for the operational continuity of the entire U.S. hospital system. Its role in distributing essential medical products and operating one of the largest networks of radiopharmacies in the U.S. is a direct and critical contribution to emergency services and public health.60
+The company's services encompass medical supply distribution solutions, OptiFreight® Logistics for freight management, Presource® Kitting Services for procedural packs, and strategic stock solutions, all aimed at optimizing the healthcare supply chain.17 Cardinal Health also provides tailored solutions for ambulatory surgery centers, hospitals, and physician offices, ensuring that essential supplies reach diverse points of care.17 This foundational role in maintaining healthcare readiness, particularly in times of crisis, is often underestimated in public discourse and may not be fully reflected in its market valuation. The sheer breadth of their integration into the daily functioning of the U.S. healthcare system means they are a critical component for maintaining services nationwide. As of August 2025, Cardinal Health's market capitalization was approximately $37.57 billion.15
+
+5. FedEx Corporation (FDX)
+
+Primary Critical Sector: Transportation Systems, Critical Manufacturing (Supply Chains), Food and Agriculture.1
+FedEx Corporation provides high-value-added logistics, transportation, and related end-to-end business services through a fully integrated digital and physical network.19 Beyond its well-known express and ground delivery services, FedEx's "Custom Critical" division offers highly specialized services crucial for national resilience. This includes temperature-controlled shipping for sensitive healthcare and pharmaceutical products, high-security shipping for government items, hazardous materials transport, and vital disaster recovery logistics.62 The company delivers medical equipment, devices, supplies, pharmaceuticals, and biologics directly to hospitals, homes, and medical facilities, sometimes even to specific rooms, highlighting its precision and critical role in public health infrastructure.63
+FedEx's extensive network and specialized capabilities make it a central node in numerous critical supply chains. Its ability to transport essential goods under stringent conditions and respond to emergencies directly supports the continuity of operations across various critical sectors, including healthcare, defense, and manufacturing. The company's commitment to modernizing infrastructure and its role in moving nearly 70% of all U.S. freight tonnage underscores its systemic importance to the national economy and supply chain resilience.66 Any disruption to FedEx's operations would have significant cascading effects across multiple industries and public services. As of August 2025, FedEx's market capitalization was approximately $53.79 billion.19
+
+V. Conclusions
+
+This report highlights a critical distinction between a company's market valuation and its intrinsic importance to the functioning and security of the United States. By applying a structured framework rooted in the government's definition of critical infrastructure, it becomes evident that numerous publicly traded companies, while perhaps not commanding the largest market capitalizations, are nonetheless indispensable to national security, economic stability, and public welfare.
+The analysis reveals that companies with the highest Importance-to-Market Cap Ratios often share several characteristics: they operate in highly specialized, high-barrier-to-entry niches (e.g., nuclear shipbuilding, nuclear components); they are deeply embedded in government operations and defense contracts; or they serve as critical, irreplaceable nodes within essential supply chains (e.g., healthcare distribution, specialized logistics). The disproportionate value these "unsung pillars" provide underscores their foundational role, where the consequences of their incapacitation would be far-reaching and debilitating, far exceeding the financial impact suggested by their market size.
+The findings suggest that a comprehensive understanding of national corporate value must extend beyond traditional financial metrics. For policymakers, investors, and strategic planners, recognizing these companies is paramount for prioritizing national resilience, assessing systemic risks, and ensuring the continuity of vital services. The stability and long-term strategic reliance placed upon these entities by the U.S. government and society represent a form of value that transcends short-term market fluctuations and investor sentiment. This report serves as a guide to identifying and appreciating these critical, yet often overlooked, cornerstones of the nation's infrastructure.
+Works cited
+Critical Infrastructure Sectors and How to Enhance Security - American Military University, accessed August 9, 2025, https://www.amu.apus.edu/area-of-study/homeland-security/resources/critical-infrastructure-sectors/
+16 Critical Infrastructure Sectors, accessed August 9, 2025, https://www.akleg.gov/basis/get_documents.asp?session=32&docid=662
+Critical Infrastructure Sectors - CISA, accessed August 9, 2025, https://www.cisa.gov/topics/critical-infrastructure-security-and-resilience/critical-infrastructure-sectors
+Essential services - Wikipedia, accessed August 9, 2025, https://en.wikipedia.org/wiki/Essential_services
+Huntington Ingalls Industries - Wikipedia, accessed August 9, 2025, https://en.wikipedia.org/wiki/Huntington_Ingalls_Industries
+Earnings call transcript: BWX Technologies beats Q2 2025 forecasts ..., accessed August 9, 2025, https://www.investing.com/news/transcripts/earnings-call-transcript-bwx-technologies-beats-q2-2025-forecasts-stock-rises-93CH-4169055
+List of defense contractors - Wikipedia, accessed August 9, 2025, https://en.wikipedia.org/wiki/List_of_defense_contractors
+Honeywell Market Cap 2010-2025 | HON | MacroTrends, accessed August 9, 2025, https://macrotrends.net/stocks/charts/HON/honeywell/market-cap
+RTX Market Cap 2010-2025 | RTX | MacroTrends, accessed August 9, 2025, https://macrotrends.net/stocks/charts/RTX/rtx/market-cap
+Northrop Grumman - Wikipedia, accessed August 9, 2025, https://en.wikipedia.org/wiki/Northrop_Grumman
+General Dynamics Corp. | Defense Contractor, Aerospace ..., accessed August 9, 2025, https://www.britannica.com/money/General-Dynamics-Corp
+L3Harris Technologies (LHX) Stock Price, News & Info | The Motley ..., accessed August 9, 2025, https://www.fool.com/quote/nyse/lhx/
+Booz Allen Hamilton Holding Corp, BAH:NYQ summary - FT.com, accessed August 9, 2025, https://markets.ft.com/data/equities/tearsheet/summary?s=BAH:NYQ
+10 Biggest Healthcare Companies - Investopedia, accessed August 9, 2025, https://www.investopedia.com/articles/markets/030916/worlds-top-10-health-care-companies-unh-mdt.asp
+Largest healthcare companies by market cap, accessed August 9, 2025, https://companiesmarketcap.com/healthcare/largest-healthcare-companies-by-market-cap/
+McKesson Market Cap 2010-2025 | MCK | MacroTrends, accessed August 9, 2025, https://macrotrends.net/stocks/charts/MCK/mckesson/market-cap
+Medical Supply Chain Management Services | Cardinal Health, accessed August 9, 2025, https://www.cardinalhealth.com/en/solutions/medical-distribution/supply-chain-center.html
+United Parcel Service (UPS) - Market capitalization, accessed August 9, 2025, https://companiesmarketcap.com/ups/marketcap/
+Investor Relations | FedEx, accessed August 9, 2025, https://investors.fedex.com/home/default.aspx
+Stock Quote & Chart | Lockheed Martin Corp, accessed August 9, 2025, https://investors.lockheedmartin.com/stock-information/stock-quote-and%20-chart/
+Exxon Mobil (XOM) - Market capitalization - Companies Market Cap, accessed August 9, 2025, https://companiesmarketcap.com/exxon-mobil/marketcap/
+Chevron Market Cap 2010-2025 | CVX - Macrotrends, accessed August 9, 2025, https://macrotrends.net/stocks/charts/CVX/chevron/market-cap
+Nextera Energy (NEE) - Market capitalization - Companies Market Cap, accessed August 9, 2025, https://companiesmarketcap.com/nextera-energy/marketcap/
+American Electric Power Company Market capitalization 2025 ..., accessed August 9, 2025, https://eulerpool.com/en/stock/American-Electric-Power-Company-Stock-US0255371017/Marketcapitalization
+What Are Wall Street Analysts' Target Price for Kinder Morgan Stock?, accessed August 9, 2025, https://www.hovenequity.com/news/story/33851689/what-are-wall-street-analysts-target-price-for-kinder-morgan-stock
+The Williams Companies (WMB) Stock Price & Overview, accessed August 9, 2025, https://stockanalysis.com/stocks/wmb/
+Verizon Market Cap 2010-2025 | VZ | MacroTrends, accessed August 9, 2025, https://macrotrends.net/stocks/charts/VZ/verizon/market-cap
+AT&T (T) - Market capitalization - Companies Market Cap, accessed August 9, 2025, https://companiesmarketcap.com/att/marketcap/
+companiesmarketcap.com, accessed August 9, 2025, https://companiesmarketcap.com/t-mobile-us/marketcap/#:~:text=As%20of%20August%202025%20T,cap%20according%20to%20our%20data.
+Cisco Systems (CSCO) Stock Price & Overview - Stock Analysis, accessed August 9, 2025, https://stockanalysis.com/stocks/csco/
+Microsoft Just Announced 1 Jaw-Dropping Figure You'll Have to See ..., accessed August 9, 2025, https://www.fool.com/investing/2025/08/05/microsoft-just-announced-1-jaw-dropping-figure-you/
+UnitedHealth Group | UNH Stock Price, Company Overview & News, accessed August 9, 2025, https://www.forbes.com/companies/unitedhealth-group/
+Are Wall Street Analysts Bullish on CVS Health Stock? - Ag Risk Solutions -, accessed August 9, 2025, https://www.ag-risk-solutions.com/news/story/33731988/are-wall-street-analysts-bullish-on-cvs-health-stock
+Union Pacific and Norfolk Southern to Create America's First ..., accessed August 9, 2025, https://www.up.com/press-releases/growth/norfolk-southern-transcontinental-nr-250729
+CSX Corporation (CSX) - Market capitalization, accessed August 9, 2025, https://companiesmarketcap.com/csx-corporation/marketcap/
+Delta Air Lines Market Cap 2010-2025 | DAL | MacroTrends, accessed August 9, 2025, https://www.macrotrends.net/stocks/charts/DAL/delta-air-lines/market-cap
+General Electric (GE) - Market capitalization - Companies Market Cap, accessed August 9, 2025, https://companiesmarketcap.com/general-electric/marketcap/
+Market Cap of Lockheed Martin Corporation | Bullfincher, accessed August 9, 2025, https://bullfincher.io/companies/lockheed-martin-corporation/market-cap
+Lockheed Martin (LMT) - Market capitalization - Companies Market Cap, accessed August 9, 2025, https://companiesmarketcap.com/lockheed-martin/marketcap/
+Huntington Ingalls Industries Market Cap 2010-2025 | HII - Macrotrends, accessed August 9, 2025, https://www.macrotrends.net/stocks/charts/HII/huntington-ingalls-industries/market-cap
+Huntington Ingalls Industries (HII) - Market capitalization, accessed August 9, 2025, https://companiesmarketcap.com/huntington-ingalls-industries/marketcap/
+L3Harris Technologies (LHX) - Market capitalization - Companies Market Cap, accessed August 9, 2025, https://companiesmarketcap.com/l3harris-technologies/marketcap/
+L3Harris Technologies (LHX) Market Cap & Net Worth - Stock Analysis, accessed August 9, 2025, https://stockanalysis.com/stocks/lhx/market-cap/
+Market Cap of Cardinal Health | Bullfincher, accessed August 9, 2025, https://bullfincher.io/companies/cardinal-health/market-cap
+Cardinal Health (CAH) - Market capitalization - Companies Market Cap, accessed August 9, 2025, https://companiesmarketcap.com/cardinal-health/marketcap/
+Market Cap of Union Pacific Corporation | Bullfincher, accessed August 9, 2025, https://bullfincher.io/companies/union-pacific-corporation/market-cap
+Union Pacific (UNP) Market Cap & Net Worth - Stock Analysis, accessed August 9, 2025, https://stockanalysis.com/stocks/unp/market-cap/
+Market Cap of FedEx Corporation | Bullfincher, accessed August 9, 2025, https://bullfincher.io/companies/fedex-corporation/market-cap
+FedEx (FDX) - Market capitalization - Companies Market Cap, accessed August 9, 2025, https://companiesmarketcap.com/fedex/marketcap/
+Northrop Grumman Market Cap 2010-2025 | NOC | MacroTrends, accessed August 9, 2025, https://www.macrotrends.net/stocks/charts/NOC/northrop-grumman/market-cap
+Northrop Grumman (NOC) - Market capitalization - Companies Market Cap, accessed August 9, 2025, https://companiesmarketcap.com/northrop-grumman/marketcap/
+Earnings call transcript: CVS Health Q2 2025 beats earnings expectations - Investing.com, accessed August 9, 2025, https://www.investing.com/news/transcripts/earnings-call-transcript-cvs-health-q2-2025-beats-earnings-expectations-93CH-4163624
+Critical Infrastructure Protection Companies | Market Research Future, accessed August 9, 2025, https://www.marketresearchfuture.com/reports/critical-infrastructure-protection-market/companies
+Top 10 Critical Infrastructure Protection (CIP) Vendors - Extrapolate, accessed August 9, 2025, https://extrapolate.com/blog/10-best-critical-infrastructure-protection-cip-companies
+About Us | Honeywell, accessed August 9, 2025, https://www.honeywell.com/us/en/company/about-us
+IBM - Wikipedia, accessed August 9, 2025, https://en.wikipedia.org/wiki/IBM
+Complete List of Aerospace & Defense Companies Listed on U.S. Exchanges - InvestSnips, accessed August 9, 2025, https://investsnips.com/complete-list-of-aerospace-defense-companies-listed-on-u-s-exchanges/
+Booz Allen Hamilton (BAH) Research Report - StockStory, accessed August 9, 2025, https://stockstory.org/us/stocks/nyse/bah
+Critical Manufacturing MES, accessed August 9, 2025, https://www.criticalmanufacturing.com/
+Cardinal Health - Wikipedia, accessed August 9, 2025, https://en.wikipedia.org/wiki/Cardinal_Health
+Companies in the Transportation Industry | Intrinio, accessed August 9, 2025, https://data.intrinio.com/companies/industry/transportation
+Expedited Service for Specialty Shipments | FedEx Custom Critical, accessed August 9, 2025, https://www.fedex.com/en-us/custom-critical.html
+Healthcare Shipping Solutions | FedEx, accessed August 9, 2025, https://www.fedex.com/en-us/healthcare.html
+Ship Medical Equipment, Devices, and Supplies - FedEx, accessed August 9, 2025, https://www.fedex.com/en-us/healthcare/deliver-medical-supplies-equipment-devices.html
+Fedex Custom Critical - Summit County, accessed August 9, 2025, https://www.summit4success.com/resources-for-your-business/our-development-partners/4662/fedex_custom_critical
+Transportation Policy Perspectives | FedEx, accessed August 9, 2025, https://www.fedex.com/en-us/about/policy/transportation.html
+About Us | FedEx, accessed August 9, 2025, https://www.fedex.com/en-us/about.html
