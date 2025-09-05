@@ -67,3 +67,51 @@ I'll search for recent information about how AI has impacted public company stoc
    C3 still generates about 30% of its revenue from a joint venture with Baker Hughes that is set to expire in fiscal 2025, and if C3 doesn't renew that deal, its revenue will drop off a cliff. Despite its AI focus, the company faced execution challenges and intense competition from larger tech companies offering similar AI platforms.
 
 The AI revolution has created a clear divide between companies that successfully adapted to or enabled AI transformation versus those that were disrupted by it or failed to capture meaningful AI market share. The AI boom has generated clear winners and losers, reshaped industries, and sparked new investment trends, with the impact likely to continue evolving as AI applications expand across all sectors of the economy.
+- (ChatGPT 9/5/2025)"List the top 20 public companies in artificial intelligence or robotics by market cap and provide the niche strength that each company has when it comes to artificial intelligence or robotics."
+ChatGPT
+Great — below I ranked **20 major public companies that are strongly involved in artificial intelligence or robotics**, and for each I give the company’s primary **AI / robotics niche strength** (what they’re best-known for in AI/robotics). Market-cap references are given for the five biggest, and the whole list reflects company scale and AI/robotics exposure as of **September 5, 2025**.
+
+**Top 20 public companies (AI / robotics) — ranked by approximate market size & relevance (Sept 5, 2025)**
+
+> **Note:** I cite the five most load-bearing market-cap sources below (for NVIDIA, Apple, Microsoft, Alphabet, Amazon). The niche descriptions for every company are current summaries of each firm’s AI/robotics strengths.
+
+1. **NVIDIA (NVDA)** — *Niche:* World-leading AI accelerators (GPUs), AI software stack (CUDA, cuDNN), datacenter AI inference/training platforms, and ecosystem power for generative AI and model training. ([Macrotrends][1])
+2. **Apple (AAPL)** — *Niche:* On-device AI and silicon (Neural Engine), tight hardware-software integration for private/efficient AI (iPhone/Mac), and consumer-facing AI features across OS and apps.
+3. **Microsoft (MSFT)** — *Niche:* Cloud AI platform leader (Azure AI, Azure ML), large-scale model partnerships & enterprise AI integrations (Copilot in Office, Azure OpenAI stack).
+4. **Alphabet / Google (GOOGL)** — *Niche:* Foundational AI research and productization (DeepMind, Google Brain), large language and multimodal models, search + ads optimization, and massive AI infra.
+5. **Amazon (AMZN)** — *Niche:* Cloud AI services (AWS SageMaker, Bedrock), production AI infrastructure at scale and robotics/automation within logistics (warehouse robotics). ([Macrotrends][2])
+6. **Meta Platforms (META)** — *Niche:* Large-scale model R\&D for recommendation and multimodal experiences, social/AR/VR AI and infrastructure for large consumer models.
+7. **Tesla (TSLA)** — *Niche:* Autonomy stack (vehicle autonomy, Dojo training infra) and humanoid robotics (Optimus) ambitions — strong vertical integration of hardware + AI.
+8. **TSMC (TSM)** — *Niche:* World’s largest pure-play semiconductor foundry — enabling fabrication of advanced AI chips for many AI leaders (critical supply for AI hardware).
+9. **ASML (ASML)** — *Niche:* Extreme ultraviolet (EUV) lithography equipment — essential for building the most advanced AI/ML silicon at cutting-node nodes.
+10. **Broadcom (AVGO)** — *Niche:* Networking, silicon and accelerator IP for datacenter and AI networking/hardware; custom silicon for cloud AI infra.
+11. **AMD (AMD)** — *Niche:* GPUs and adaptive accelerators for AI training/inference; growing presence in datacenter AI hardware.
+12. **Intel (INTC)** — *Niche:* CPU + accelerator portfolio for AI at the edge and datacenter (Xeon, Habana accelerators historically, and growing AI silicon efforts).
+13. **Oracle (ORCL)** — *Niche:* Enterprise AI services embedded into database and cloud stack (OCI + GenAI integrations for enterprises).
+14. **IBM (IBM)** — *Niche:* Enterprise AI (hybrid-cloud AI), AI for regulated industries, AI/automation software and industrial/process automation tools.
+15. **Salesforce (CRM)** — *Niche:* Enterprise generative AI products (Einstein/CoPilot for CRM), combining CRM data with AI-driven automation and insights.
+16. **Palantir (PLTR)** — *Niche:* Large-scale enterprise/government data integration + AI analytics pipelines for mission-critical decision systems.
+17. **Intuitive Surgical (ISRG)** — *Niche:* Leading surgical-robotics platform (robotic-assisted surgery hardware + software), improving precision and automation in surgery.
+18. **Rockwell Automation (ROK)** — *Niche:* Industrial automation + factory automation platforms, AI-enabled control systems and robotics integration for manufacturing.
+19. **Deere & Company (DE)** — *Niche:* Autonomy and robotics in agriculture (autonomous tractors, precision-ag systems and AI-driven farm automation).
+20. **ABB / Fanuc / Yaskawa (grouped as industrial-robot leaders)** — *Niche:* Industrial robotics and automation (precision factory robots, motion control, robot arms and industrial AI).
+
+* Examples: **ABB (ABB)** — industrial robot arms and automation systems; **Fanuc** — factory robots and CNC/automation; **Yaskawa** — motion controllers & servos for robotics.
+
+---
+
+### Quick methodology & caveats
+
+* **What I measured:** This list mixes *company scale* (market cap / size) and *material AI or robotics capability.* It isn’t a pure “top-20-by-market-cap of all public companies” list — instead it lists the largest public companies that *meaningfully* compete in AI or robotics (chipmakers, cloud AI, Big Tech, industrial robotics, surgical robotics, and firms productizing AI at scale).
+* **Date & accuracy:** market-size context and company positions are reflective **as of Sept 5, 2025** (I cited authoritative snapshots for the five biggest AI/robotics-relevant firms). Market caps move daily; the company **niches** are stable descriptors of strategic strengths. (Sources for the five load-bearing market-cap figures are linked above.) ([Macrotrends][1])
+* **If you want exact market-cap ranking for each of the 20 (live numbers):** I can pull a live-sorted table of current market caps for every ticker you want (and include direct citations per firm). Want that? I can produce a downloadable table with exact market-cap values and sources.
+
+Would you like me to (pick one):
+A) Produce an exact ranked table (with live market-cap numbers and source links) for these 20 companies; or
+B) Narrow down to only pure-play robotics companies and rank those by market cap; or
+C) Expand any company’s niche description into a short SWOT (strengths / weaknesses / opportunities / threats)?
+
+Pick one and I’ll produce it immediately.
+
+[1]: https://www.macrotrends.net/stocks/charts/NVDA/nvidia/market-cap?utm_source=chatgpt.com "NVIDIA Market Cap 2010-2025 | NVDA"
+[2]: https://www.macrotrends.net/stocks/charts/AMZN/amazon/market-cap?utm_source=chatgpt.com "Amazon Market Cap 2010-2025 | AMZN"
