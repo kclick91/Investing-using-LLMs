@@ -1,0 +1,76 @@
+- (ChatGPT 9/5/2025) "Based on the top 10 jobs that are safest from artificial intelligence, list the top 20 public companies that will have the largest growth over the next 10 years to year 2035. List the 10 jobs as well."
+ChatGPT
+Nice — I’ll do this in two parts: (A) a short, evidence-backed **top-10 jobs that are safest from AI**, and (B) a **top-20 public companies** (to 2035) that are plausibly best-positioned to grow because they sit in sectors tied to those AI-resistant jobs (healthcare, skilled trades & construction, energy/utility/renewables, defense/infrastructure, and education/telehealth). I base the “safe jobs” summary on recent studies and reporting, and I cite sector growth research that supports the company choices. (I can give ticker symbols or re-order by any preference if you want.)
+
+# A — Top 10 jobs likely safest from AI (short list and why)
+
+1. **Emergency medical technicians (EMTs) / first responders** — require hands-on, unpredictable, life-saving decisions and public interaction.
+2. **Nurses & bedside healthcare workers (including home-health aides)** — high human judgment, empathy, and physical tasks.
+3. **Physicians / specialized surgeons (clinical roles with complex judgment)** — complicated diagnostics + manual procedures.
+4. **Mental-health professionals (psychologists, counselors, social workers)** — deep empathy, trust, and ethical judgment.
+5. **Skilled tradespeople (electricians, plumbers, roofers, HVAC techs)** — physical, varied environments and manual dexterity.
+6. **Construction supervisors / heavy-equipment operators** — on-site decisioning and coordination in messy environments.
+7. **Teachers & educators (K-12, special ed)** — social/emotional learning, classroom management, high interpersonal demand.
+8. **Healthcare managers / hospital administrators** — complex systems coordination, regulation, and human leadership.
+9. **Creative professionals with strong human context (senior designers, high-end writers, directors)** — cultural, emotional nuance hard to automate.
+10. **Legal professionals requiring judgment & advocacy (trial lawyers, judges)** — adversarial reasoning, ethics, courtroom advocacy.
+
+These categories align with multiple recent analyses of which occupations show the lowest automation risk (manual, unpredictable work; high social/emotional content; or complex judgment). ([Tom's Guide][1], [Forbes][2])
+
+# B — Top 20 public companies likeliest to see large growth through 2035
+
+Below I list 20 public companies (grouped by sector tied to the jobs above) with one-line rationale for each — why they’re likely to benefit from the secular trends (aging population, healthcare spending, infrastructure & trades, energy transition, defense, and education/telehealth). The sector growth context (especially for healthcare and energy/utility) is supported by industry forecasts. ([McKinsey & Company][3], [Investors][4])
+
+## Healthcare & health services (supporting nurses, clinicians, managers, telehealth)
+
+1. **UnitedHealth Group (UNH)** — massive payer/provider footprint + growth in managed care, home care and data-driven services.
+2. **Johnson & Johnson (JNJ)** — diversified pharma + medtech exposure (devices & hospital supplies).
+3. **Medtronic (MDT)** — global medtech leader (implantables, surgical tech) tied to aging population.
+4. **Abbott Laboratories (ABT)** — diagnostics, monitoring devices (remote patient monitoring/POC testing).
+5. **Pfizer (PFE)** — large biopharma pipeline and capacity for long-term specialty drug revenue.
+6. **Teladoc Health (TDOC)** — virtual care and remote-monitoring platform (growth in telehealth & behavioral health).
+   *(Healthcare sector tailwinds and sustained EBITDA growth are documented in recent industry outlooks.)* ([McKinsey & Company][3])
+
+## Skilled-trades, construction & materials (supporting electricians, roofers, heavy equipment ops)
+
+7. **Home Depot (HD)** — retail & pro channel for tradespeople; benefits from ongoing renovation & infrastructure spending.
+8. **Lowe’s (LOW)** — similar pro/home trade exposure, national footprint.
+9. **Caterpillar (CAT)** — world leader in construction equipment used by contractors and infrastructure builders.
+10. **Deere & Company (DE)** — heavy equipment & construction/agriculture machinery for infrastructure and rural projects.
+11. **Vulcan Materials (VMC)** *(or Martin Marietta/CRH depending on region)* — aggregates/construction materials that scale with infrastructure build.
+    *(Manual trades and infrastructure work are among occupations least affected by AI; demand for materials & equipment is structural.)* ([Tom's Guide][1])
+
+## Energy, utilities & grid (supporting operators, plant technicians, and powering data centers)
+
+12. **NextEra Energy (NEE)** — largest U.S. renewables/utility player; positioned for long-run clean energy growth.
+13. **Enphase Energy (ENPH)** — residential solar inverters & storage enabling distributed energy for homes (trade and installation jobs).
+14. **SolarEdge Technologies (SEDG)** — solar inverters & grid edge tech for distributed generation.
+15. **Vistra Corp (VST)** — power generation & storage operator benefiting from stable demand for reliable power (including AI/data-center demand).
+    *(Energy utilities & generation are being reshaped by renewables, storage and the need for reliable power for data centers—growth drivers to 2035.)* ([Investors][4], [Fidelity][5])
+
+## Defense, aerospace & industrials (supporting heavy equipment operators, infrastructure & emergency response)
+
+16. **Lockheed Martin (LMT)** — steady defense spending, advanced systems and services.
+17. **Northrop Grumman (NOC)** — avionics, space & defense systems with long-duration contracts.
+18. **Honeywell (HON)** — industrial automation, buildings, and safety products that support infrastructure and service workers.
+
+## Education, workforce & platform plays (supporting teachers, counselors, skills training)
+
+19. **Microsoft (MSFT)** — cloud + AI backbone used across healthcare, education, and enterprise — enables telehealth/learning platforms and institutional adoption.
+20. **Coursera (COUR)** — education-tech platform that scales upskilling, credentialing, and reskilling for workers in trades, healthcare, and new-tech roles.
+
+---
+
+## Quick notes on methodology & risk
+
+* **How I picked these:** I prioritized public companies with (a) clear exposure to sectors that employ AI-resistant jobs (healthcare, trades, energy, defense, education), (b) durable market positions / moats, and (c) positive secular tailwinds cited in recent industry outlooks. See healthcare forecasts and energy commentary cited above. ([McKinsey & Company][3], [Investors][4])
+* **Risks & caveats:** Nothing here is a guaranteed 10-year winner — macro shocks, regulation, competition, or faster-than-expected AI adoption in ancillary processes can change outcomes. Also valuation matters: high-growth names may already price in future gains. Treat this list as a strategic starting set tied to durable human-centric roles, not investment advice.
+* **If you want:** I can (right now) (1) add tickers and current market caps, (2) rank these 20 by an expected 10-year growth score (low/medium/high) with supporting metrics, or (3) generate a downloadable CSV with the list and short rationales. Tell me which and I’ll produce it.
+
+Would you like tickers & current market caps added, or want this list re-ranked for **highest expected upside** versus **safest / lowest volatility**?
+
+[1]: https://www.tomsguide.com/ai/microsoft-reveals-the-40-jobs-ai-is-most-likely-to-replace-and-40-that-are-safe-for-now?utm_source=chatgpt.com "Microsoft study reveals the 40 jobs AI is most likely to impact"
+[2]: https://www.forbes.com/sites/bryanrobinson/2025/03/13/the-10-careers-ai-cant-replace-in-2025-yet/?utm_source=chatgpt.com "10 Careers AI Can't Replace in 2025"
+[3]: https://www.mckinsey.com/industries/healthcare/our-insights/what-to-expect-in-us-healthcare-in-2025-and-beyond?utm_source=chatgpt.com "What to expect in US healthcare in 2025 and beyond"
+[4]: https://www.investors.com/research/the-new-america/vistra-stock-nuclear-power-ai-data-center-s-p-500/?utm_source=chatgpt.com "What AI Bubble? Vistra Makes A Powerful Run As AI Data Centers Fuel Nuclear Growth."
+[5]: https://www.fidelity.com/learning-center/trading-investing/outlook-health-care?utm_source=chatgpt.com "Health care sector outlook 2025 | Health care stocks"
