@@ -86,3 +86,197 @@ Based on current market capitalization rankings as of August 2025, here are the 
 - Growth percentages calculated as year-end to year-end changes
 
 *Note: This analysis represents approximate performance based on available market data. Actual returns may vary slightly depending on specific calculation methods and dates used.*
+(ChatGPT 9/19/2025) "Using five scores from 1 to 10 in each category rate the top 25 public companies. The categories are: 1. Highest potential for growth 2. The growth of the company is beneficial to society 3. Resilient to crises 4. Most promising R&D and 5. Most articulated philosophy"
+ChatGPT
+That’s a big ask — picking and scoring the *top 25 public companies* across 5 qualitative criteria is inherently subjective. But I can sketch out a sample of maybe \~10–12 leading companies, score them in each of the five categories, and explain my reasoning. If you like, I can expand to 25.
+
+Here are the categories again:
+
+1. Highest potential for growth
+2. Growth beneficial to society
+3. Resilient to crises
+4. Most promising R\&D
+5. Most articulated philosophy
+
+Below are some companies and how I’d rate them 1–10 in each, along with reasoning. Let me know if you'd like a full list of 25 or tweak which companies to include.
+
+---
+
+| Company               | Pot’l Growth | Beneficial Growth | Resilience | R\&D Promise | Philosophy / Articulation |
+| --------------------- | ------------ | ----------------- | ---------- | ------------ | ------------------------- |
+| **NVIDIA**            | 10           | 7                 | 8          | 10           | 7                         |
+| **Microsoft**         | 9            | 8                 | 9          | 9            | 8                         |
+| **Alphabet (Google)** | 9            | 8                 | 9          | 9            | 8                         |
+| **Tesla**             | 9            | 8                 | 7          | 8            | 7                         |
+| **Novo Nordisk**      | 8            | 10                | 9          | 8            | 9                         |
+| **Merck & Co.**       | 7            | 9                 | 8          | 9            | 8                         |
+| **Meta Platforms**    | 7            | 6                 | 7          | 9            | 6                         |
+| **ASML**              | 8            | 7                 | 8          | 9            | 7                         |
+| **Amazon**            | 8            | 7                 | 8          | 9            | 7                         |
+| **Johnson & Johnson** | 7            | 9                 | 9          | 8            | 8                         |
+
+---
+
+### Reasoning
+
+* **NVIDIA**
+  *Growth potential* is nearly off the charts given its position in AI, GPU compute, datacenters. R\&D is extremely strong. Societal benefit is mixed — big enabler of many things, though also risk of concentration. Philosophy somewhat less publicly articulated than, say, a pharmaceutical company or social mission company.
+
+* **Microsoft**
+  Strong across the board — cloud, productivity, AI. Generally good public statements about ethics, sustainability.
+
+* **Alphabet**
+  Similar to Microsoft: innovation, strong R\&D, big growth levers.
+
+* **Tesla**
+  Very high growth potential, strong impact (EVs, energy storage), though more volatile / less “resilient” than some; R\&D very promising in battery, autonomy etc.
+
+* **Novo Nordisk**
+  Very high beneficial growth (obesity, metabolic disease, weight-loss drugs), strong resilience; ethics and corporate mission somewhat clear.
+
+* **Merck & Co.**
+  Big pharma, R\&D-intensive; societal benefit clear via health. But growth sometimes constrained by regulation, patent/exclusivity issues.
+
+* **Meta Platforms**
+  Great R\&D especially around AI/VR etc., but societal benefit and philosophy less positively viewed (or more contested); resilience okay.
+
+* **ASML**
+  Very strong in its niche (EUV lithography); essential for chip manufacturing; good resilience; R\&D strong.
+
+* **Amazon**
+  Massive scale, huge R\&D, many societal impacts (both positive and negative). Very resilient operations, though public perception sometimes muddied.
+
+* **Johnson & Johnson**
+  Broad healthcare, consumer goods; has historically been resilient; mission/philosophy more explicit in healthcare.
+
+---
+
+If I were to give final aggregated rankings (for this sample), the top ones would likely be: **NVIDIA**, **Microsoft**, and **Alphabet** (tied or close), then **Novo Nordisk**, **ASML**, **Merck**, **Tesla** etc.
+
+---
+
+If you want, I can build out the full 25 list with scores for each — do you want that? Also, are there specific industries or regions you want emphasized (tech, health, ESG, etc.)?
+User
+"How about a full 25?"
+ChatGPT
+Great — I built a full **Top 25 (market-cap driven) list** and scored each company **1–10** on your five categories:
+
+1. **Highest potential for growth**
+2. **Growth beneficial to society**
+3. **Resilient to crises**
+4. **Most promising R\&D**
+5. **Most articulated philosophy**
+
+I used current market-cap rankings (September 2025 snapshots) as the selection method — primary reference: CompaniesMarketCap (with supporting listings from Capital.com / Investopedia / VisualCapitalist). ([Companies Market Cap][1])
+
+Below: the 25 companies (ordered roughly by market-cap) with five 1–10 scores each and a 1-line reasoning note for that company. If you want, I’ll export this as a spreadsheet or re-rank by a different measure (revenue, ESG score, region, etc.).
+
+---
+
+# Top 25 public companies — five-category 1–10 ratings
+
+Legend: (Growth, Societal benefit, Resilience, R\&D, Philosophy)
+
+1. **NVIDIA (NVDA)** — (10, 7, 8, 10, 6)
+   AI/compute leader — maximal growth & R\&D; societal impact mixed; corporate mission less philosophically front-and-center. ([Companies Market Cap][1])
+
+2. **Microsoft (MSFT)** — (9, 8, 9, 9, 8)
+   Broad cloud/AI/platform play; strong resilience and public-purpose statements. ([Companies Market Cap][1])
+
+3. **Apple (AAPL)** — (7, 8, 9, 8, 7)
+   Mature growth but huge cashflows, product R\&D and strong consumer benefit; high resilience. ([Companies Market Cap][1])
+
+4. **Alphabet / Google (GOOG)** — (9, 8, 8, 9, 7)
+   Search + AI + ads + cloud; strong R\&D, big societal footprint (both positive and controversial). ([Investopedia][2])
+
+5. **Amazon (AMZN)** — (8, 7, 9, 9, 6)
+   E-commerce + cloud dominance; resilient supply chains and AWS R\&D; societal impacts mixed. ([Companies Market Cap][1])
+
+6. **Meta Platforms (META)** — (8, 6, 7, 9, 6)
+   Big R\&D in AI/AR/VR; growth potential vs. contested societal impact and public trust. ([Companies Market Cap][1])
+
+7. **Broadcom (AVGO)** — (7, 6, 8, 9, 6)
+   Critical semiconductor/infra supplier; strong R\&D for chips and systems, resilient enterprise business. ([Companies Market Cap][1])
+
+8. **Saudi Aramco (2222.SR)** — (6, 4, 9, 5, 5)
+   Massive cashflow/resilience (energy), lower “beneficial growth” score because fossil-fuel core; capital for energy-transition R\&D uncertain. ([Companies Market Cap][1])
+
+9. **Tesla (TSLA)** — (9, 8, 6, 8, 7)
+   EV & energy storage leader — high growth and societal upside, but more volatile/responsive to crises. ([Companies Market Cap][1])
+
+10. **TSMC (TSM)** — (8, 7, 9, 9, 6)
+    Essential semiconductor manufacturer — critical R\&D and highly resilient supply-chain position. ([Companies Market Cap][1])
+
+11. **Berkshire Hathaway (BRK-B)** — (5, 7, 10, 5, 8)
+    Diversified conglomerate with extreme resilience; modest growth profile but well-articulated investment philosophy. ([Companies Market Cap][1])
+
+12. **JPMorgan Chase (JPM)** — (6, 6, 9, 6, 7)
+    Largest US bank — resilient systemically, moderate growth; some R\&D in fintech. ([Companies Market Cap][1])
+
+13. **Oracle (ORCL)** — (5, 6, 8, 7, 6)
+    Enterprise software & cloud; steady resilience and solid R\&D in enterprise services. ([Companies Market Cap][1])
+
+14. **Walmart (WMT)** — (4, 7, 9, 5, 7)
+    Retail juggernaut — strong resilience and social role in consumer staples; incremental tech R\&D. ([Companies Market Cap][1])
+
+15. **Tencent (TCEHY)** — (6, 6, 7, 7, 6)
+    Chinese internet conglomerate — growth and R\&D in apps/gaming/AI, societal impact mixed; regulatory sensitivity. ([Companies Market Cap][1])
+
+16. **Eli Lilly (LLY)** — (7, 10, 8, 8, 8)
+    Blockbuster drug pipeline (esp. metabolic/obesity drugs) — large societal benefit and strong R\&D. ([Companies Market Cap][1])
+
+17. **Visa (V)** — (6, 7, 9, 6, 6)
+    Payments network — resilient, moderately growing with fintech R\&D. ([Companies Market Cap][1])
+
+18. **LVMH (MC.PA)** — (5, 6, 8, 5, 7)
+    Luxury conglomerate — resilient consumer demand and brand-driven philosophy; modest tech R\&D relevance. (common top-25 global market-cap presence). ([Dogs of the Dow][3])
+
+19. **Johnson & Johnson (JNJ)** — (5, 9, 9, 7, 8)
+    Broad healthcare and consumer products — high societal benefit and resilience; steady R\&D. ([Companies Market Cap][1])
+
+20. **ExxonMobil (XOM)** — (4, 4, 9, 6, 5)
+    Large energy company — resilient and cash generative; lower score on “beneficial growth” for fossil fuels but investing in lower-carbon tech. ([Companies Market Cap][1])
+
+21. **Samsung Electronics (005930.KS)** — (6, 7, 8, 9, 6)
+    Diversified tech & component leader — strong R\&D (memory, displays, foundry), global resilience. ([Capital.com][4])
+
+22. **Roche (ROG.SW)** — (5, 9, 8, 8, 7)
+    Big pharma/diagnostics — strong societal benefit and R\&D pipeline. *(Roche often appears near top global lists.)* ([Visual Capitalist][5])
+
+23. **Nestlé (NESN.SW)** — (4, 7, 9, 5, 7)
+    Global food/beverages leader — resilient, broad societal footprint; modest R\&D in nutrition. ([Dogs of the Dow][3])
+
+24. **Merck & Co. (MRK)** — (5, 9, 8, 8, 7)
+    Pharmaceutical firm with important R\&D and clear societal benefits. ([Companies Market Cap][1])
+
+25. **Intel (INTC)** — (5, 5, 7, 8, 6)
+    Legacy chipmaker rebuilding R\&D and foundry capacity — meaningful upside but still catching up, resilience moderate. (Recent strategic moves are notable.) ([Reuters][6])
+
+---
+
+# Quick notes on scoring approach
+
+* **Selection base:** I used publicly available market-cap leaderboards (CompaniesMarketCap + corroborating sources) to define the “top 25” universe. That keeps the list objective and familiar. ([Companies Market Cap][1])
+* **Scoring:** subjective, relative 1–10 on each category. I weighted forward-looking tech/AI and biotech R\&D heavily in “Growth” and “R\&D” scores. “Beneficial to society” checks net social utility (health, energy transition, productivity) and weighs controversies (privacy, fossil fuels) down. “Resilient” favors diversified cash-generating businesses and systemically-important firms. “Philosophy” rates how clearly and consistently a company states/acts on an articulated mission or public values (not mere PR).
+* **Time-sensitivity:** market caps and rankings move quickly; I cited Sep 2025 snapshots for selection. If you want the exact market-cap snapshot and rank for each company on a particular date, I can pull and attach those figures. ([Companies Market Cap][1])
+
+---
+
+# Want improvements or next steps?
+
+Pick one and I’ll do it now (no waiting):
+
+• Export this as a CSV / Excel.
+• Re-rank by a different selection method (revenue, profit, recent growth, ESG score).
+• Show an annotated heatmap or bubble chart of the 5-category scores.
+• Narrow to a sector (e.g., only pharma or only semiconductors) and re-score.
+
+Which would you like me to do next?
+
+[1]: https://companiesmarketcap.com/ "Companies ranked by Market Cap - CompaniesMarketCap.com"
+[2]: https://www.investopedia.com/google-parent-alphabets-market-cap-hits-3-trillion-for-first-time-11809966?utm_source=chatgpt.com "Google Parent Alphabet's Market Cap Hits $3 Trillion for First Time"
+[3]: https://www.dogsofthedow.com/largest-companies-by-market-cap.htm?utm_source=chatgpt.com "50 Largest Companies by Market Cap Today (TOP 50 LIST)"
+[4]: https://capital.com/en-int/markets/shares/largest-companies-by-market-cap?utm_source=chatgpt.com "Largest companies by market cap 2025"
+[5]: https://www.visualcapitalist.com/ranked-50-most-valuable-companies-in-the-world-july-2025/?utm_source=chatgpt.com "Ranked: 50 Most Valuable Companies in the World in 2025"
+[6]: https://www.reuters.com/business/sp-500-nasdaq-futures-hit-record-highs-after-fed-cuts-rates-intel-soars-2025-09-18/?utm_source=chatgpt.com "Wall Street indexes notch record-high closes as Intel soars on Nvidia stake"
+
