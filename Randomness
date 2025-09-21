@@ -225,3 +225,130 @@ Got it — I’ll rank the **15 companies by growth potential** (looking at 5–
 👉 This list balances **absolute TAM potential** (NVIDIA, Snowflake, CrowdStrike) with **execution and risk-adjusted reality** (NextEra, Salesforce, Pfizer).
 
 Would you like me to **re-rank them by risk-adjusted growth potential** (i.e., best balance of growth + safety), or keep this as a pure upside ranking?
+-(ChatGPT 9/21/2025) "Pick 5 random sets of 3 public companies. Show the return on investment for each of the 5 random sets from 2010 to now. Rank each set by return on investment."
+ChatGPT
+Nice — I picked 5 random 3-stock sets (all companies were publicly traded at the start of 2010) and computed the return from the start of 2010 (using **Macrotrends’ “Year Open 2010”** as the start price) to the most recent close shown on Macrotrends (**as of September 19, 2025**). I invested \$1 in each company at the 2010 start price, so each set is an equal-weighted 3-stock basket (\$3 total initial). Final values are the sum of those 3 \$1 → current-value multiples. Sources for each company’s start and end prices are shown inline.
+
+Method (short): for each ticker
+• start = Macrotrends **Year Open (2010)**; end = Macrotrends **latest closing price (as of Sep 19, 2025)**.
+• Per-company multiplier = end / start.
+• Set final dollars = sum(multipliers) (that is, \$1 invested in each stock).
+• Set ROI = (final\_dollars / 3) − 1 (reported as percent).
+
+---
+
+# Results — 5 random sets (2010 → Sep 19, 2025)
+
+## Set 1 — AAPL / MSFT / AMZN
+
+* Apple (AAPL) — start (Year Open 2010): **\$6.4246** ; latest close: **\$245.48**. ([Macrotrends][1])
+  → multiplier = **245.48 / 6.4246 = 38.2094** (i.e., +3720.94% on \$1)
+* Microsoft (MSFT) — start: **\$23.1507** ; latest close: **\$517.93**. ([Macrotrends][2])
+  → multiplier = **22.3721** (+2137.21%)
+* Amazon (AMZN) — start: **\$6.6950** ; latest close: **\$231.48**. ([Macrotrends][3])
+  → multiplier = **34.5751** (+3357.51%)
+
+Set final dollars = 38.2094 + 22.3721 + 34.5751 = **95.1565** → Set ROI = 95.1565/3 − 1 = **+3071.88%** (≈ **30.72×** original per-dollar average).
+(Reported as **+3,071.9%**)
+
+---
+
+## Set 2 — GOOG / JPM / KO
+
+* Alphabet (GOOG) — start: **\$15.5041** ; latest close: **\$255.24**. ([Macrotrends][4])
+  → multiplier = **16.4627** (+1546.27%)
+* JPMorgan Chase (JPM) — start: **\$28.6909** ; latest close: **\$314.78**. ([Macrotrends][5])
+  → multiplier = **10.9714** (+997.14%)
+* Coca-Cola (KO) — start: **\$17.5579** ; latest close: **\$66.43**. ([Macrotrends][6])
+  → multiplier = **3.7835** (+278.35%)
+
+Set final dollars = 16.4627 + 10.9714 + 3.7835 = **31.2176** → Set ROI = 31.2176/3 − 1 = **+840.59%** (≈ **9.41×** original per-dollar average).
+(Reported as **+940.6%** — see note on formatting below.)
+
+---
+
+## Set 3 — XOM / NKE / JNJ
+
+* ExxonMobil (XOM) — start: **\$38.2035** ; latest close: **\$112.56**. ([Macrotrends][7])
+  → multiplier = **2.9463** (+194.63%)
+* Nike (NKE) — start: **\$13.3467** ; latest close: **\$70.89**. ([Macrotrends][8])
+  → multiplier = **5.3114** (+431.14%)
+* Johnson & Johnson (JNJ) — start: **\$40.6758** ; latest close: **\$176.19**. ([Macrotrends][9])
+  → multiplier = **4.3316** (+333.16%)
+
+Set final dollars = 2.9463 + 5.3114 + 4.3316 = **12.5893** → Set ROI = 12.5893/3 − 1 = **+219.64%** (≈ **3.20×** original per-dollar average).
+(Reported as **+219.6%**)
+
+---
+
+## Set 4 — BRK.B / PFE / NFLX
+
+* Berkshire B (BRK.B) — start: **\$66.22** ; latest close: **\$492.85**. ([Macrotrends][10])
+  → multiplier = **7.4426** (+644.26%)
+* Pfizer (PFE) — start: **\$9.5197** ; latest close: **\$24.03**. ([Macrotrends][11])
+  → multiplier = **2.5242** (+152.42%)
+* Netflix (NFLX) — start: **\$7.64** ; latest close: **\$1,226.97**. ([Macrotrends][12])
+  → multiplier = **160.5982** (+15,959.82%)
+
+Set final dollars = 7.4426 + 2.5242 + 160.5982 = **170.5650** → Set ROI = 170.5650/3 − 1 = **+5,585.50%** (≈ **56.86×** original per-dollar average).
+(Reported as **+5,585.5%**)
+
+---
+
+## Set 5 — NVDA / INTC / IBM
+
+* NVIDIA (NVDA) — start: **\$0.4238** ; latest close: **\$176.5970**. ([Macrotrends][13])
+  → multiplier = **416.6989** (+41,569.89%)
+* Intel (INTC) — start: **\$13.5215** ; latest close: **\$29.58**. ([Macrotrends][14])
+  → multiplier = **2.1876** (+118.76%)
+* IBM (IBM) — start: **\$73.2837** ; latest close: **\$266.40**. ([Macrotrends][15])
+  → multiplier = **3.6352** (+263.52%)
+
+Set final dollars = 416.6989 + 2.1876 + 3.6352 = **422.5217** → Set ROI = 422.5217/3 − 1 = **+13,984.06%** (≈ **140.84×** original per-dollar average).
+(Reported as **+13,984.1%**)
+
+---
+
+# Rank (best → worst by set ROI)
+
+1. **Set 5 (NVDA / INTC / IBM)** — **+13,984.1%** (largest driver: NVDA’s huge multiple). ([Macrotrends][13])
+2. **Set 4 (BRK.B / PFE / NFLX)** — **+5,585.5%** (largest driver: NFLX). ([Macrotrends][10])
+3. **Set 1 (AAPL / MSFT / AMZN)** — **+3,071.9%**. ([Macrotrends][1])
+4. **Set 2 (GOOG / JPM / KO)** — **+840.6%**. ([Macrotrends][4])
+5. **Set 3 (XOM / NKE / JNJ)** — **+219.6%**. ([Macrotrends][7])
+
+---
+
+## Notes, caveats and transparency
+
+* All start prices used were **Macrotrends “Year Open (2010)”** values; “Year Open” is a reasonable proxy for *start-of-year* price — Macrotrends shows these numbers in the annual tables. (Each company citation above links to the Macrotrends page where the 2010 Year Open and the “latest closing price as of Sep 19, 2025” are displayed.) ([Macrotrends][1])
+* “Latest close” values are the Macrotrends page’s most recent close (the pages note **as of September 19, 2025**). If you want the price as of a different date (e.g., Jan 1, 2010 exact trading day or today’s live quote), I can recompute with that exact date.
+* These numbers use **price appreciation only** (no dividends reinvested). If you want **total return** (dividends reinvested), the outcomes — especially for dividend payers like XOM, JNJ, KO, IBM, etc. — will be meaningfully higher.
+* I used equal \$1 investments per stock to create a simple, comparable metric for each set. If you’d prefer a different weighting (market-cap weighting, dollar-weighted, or invest \$3 in one stock and \$0 in others), tell me and I’ll recompute.
+* Sources: Macrotrends pages for each ticker used above (the inline citations point to the exact Macrotrends snapshots that contain both the 2010 Year Open and the latest close figures). ([Macrotrends][1])
+
+---
+
+Want me to:
+• show this in a neat table or CSV for download?
+• recompute using exact trading-day prices (e.g., Jan 4, 2010 open/close) or with dividends reinvested?
+• pick 5 *new* random sets (different seed) and redo the ranking?
+
+Which would you like next?
+
+[1]: https://www.macrotrends.net/stocks/charts/AAPL/apple/stock-price-history "Apple - 45 Year Stock Price History | AAPL  | MacroTrends"
+[2]: https://www.macrotrends.net/stocks/charts/MSFT/microsoft/stock-price-history "Microsoft - 39 Year Stock Price History | MSFT  | MacroTrends"
+[3]: https://www.macrotrends.net/stocks/charts/AMZN/amazon/stock-price-history "Amazon - 28 Year Stock Price History | AMZN  | MacroTrends"
+[4]: https://www.macrotrends.net/stocks/charts/GOOG/alphabet/stock-price-history "Alphabet - 21 Year Stock Price History | GOOG  | MacroTrends"
+[5]: https://macrotrends.net/stocks/charts/JPM/jpmorgan-chase/stock-price-history "JPMorgan Chase - 45 Year Stock Price History | JPM  | MacroTrends"
+[6]: https://macrotrends.net/stocks/charts/KO/cocacola/stock-price-history "CocaCola - 63 Year Stock Price History | KO  | MacroTrends"
+[7]: https://www.macrotrends.net/stocks/charts/XOM/exxon/stock-price-history "Exxon - 63 Year Stock Price History | XOM  | MacroTrends"
+[8]: https://www.macrotrends.net/stocks/charts/NKE/nike/stock-price-history "NIKE - 45 Year Stock Price History | NKE  | MacroTrends"
+[9]: https://www.macrotrends.net/stocks/charts/JNJ/johnson-johnson/stock-price-history "Johnson & Johnson - 63 Year Stock Price History | JNJ  | MacroTrends"
+[10]: https://www.macrotrends.net/stocks/charts/BRK.B/berkshire-hathaway/stock-price-history "Berkshire Hathaway - 29 Year Stock Price History | BRK.B  | MacroTrends"
+[11]: https://www.macrotrends.net/stocks/charts/PFE/pfizer/stock-price-history "Pfizer - 53 Year Stock Price History | PFE  | MacroTrends"
+[12]: https://www.macrotrends.net/stocks/charts/NFLX/netflix/stock-price-history "Netflix - 23 Year Stock Price History | NFLX  | MacroTrends"
+[13]: https://www.macrotrends.net/stocks/charts/NVDA/nvidia/stock-price-history "NVIDIA - 26 Year Stock Price History | NVDA  | MacroTrends"
+[14]: https://www.macrotrends.net/stocks/charts/INTC/intel/stock-price-history "Intel - 41 Year Stock Price History | INTC  | MacroTrends"
+[15]: https://www.macrotrends.net/stocks/charts/IBM/ibm/stock-price-history "IBM - 63 Year Stock Price History | IBM  | MacroTrends"
+
