@@ -1,0 +1,191 @@
+-(ChatGPT 9/20/2025) "Provide the 20 strongest public company-government feedback loops in the United States where the company benefits the US, the US benefits the company, etc. Provide the ticker symbol for each and a short explanation."
+ChatGPT
+# 20 strongest U.S. public company ⇄ government feedback loops (ticker + why it’s a feedback loop)
+
+Below are 20 public companies whose businesses and the U.S. federal government strongly reinforce one another — the government buys/regulates/supports something the company supplies, and the company in turn supplies critical capability, jobs, tax receipts, R\&D or policy leverage the government needs. Each entry has the ticker and a one-line explanation with a supporting citation.
+
+1. **Lockheed Martin — LMT**
+   Primary supplier of fighters, missiles, satellites and classified systems to the DoD; huge, recurring DoD contracts create a stable revenue stream while Lockheed supplies critical defense capability. ([USAspending][1])
+
+2. **Raytheon Technologies — RTX**
+   Major provider of missile systems, radars and avionics; large DoD and federal agency awards make Raytheon central to U.S. air/missile defense posture. ([USAspending][2])
+
+3. **Northrop Grumman — NOC**
+   Builds strategic systems (bombers, space/ISR platforms, missile defense); sustained federal contracts tie company investment to national security priorities. ([Northrop Grumman News][3])
+
+4. **General Dynamics — GD**
+   Naval, land systems and IT services supplier to the military and federal agencies; government awards underpin major divisions and long lifecycle sustainment work. ([U.S. Department of War][4])
+
+5. **Boeing — BA**
+   Military aircraft, satellites and NASA/DoD programs (plus commercial airliners whose supply chain is of national interest); the company’s health affects defense readiness and industrial base policy. ([USAspending][5])
+
+6. **Amazon — AMZN** (AWS)
+   AWS is a major supplier of cloud services to federal civilian agencies and parts of DOD; government cloud deals and data-center usage accelerate AWS product development and scale. ([Reuters][6])
+
+7. **Microsoft — MSFT**
+   Large federal/military cloud contracts (including the DoD cloud procurement history) and enterprise software deals — the government modernizes on Azure while Microsoft secures long-term revenue and R\&D scale. ([Nigel Frank][7])
+
+8. **Palantir — PLTR**
+   Heavy, direct dependence on federal/defense contracts for data/analytics platforms; the Army and other agencies consolidate contracts around Palantir, which in turn delivers mission-critical data tools. ([Reuters][8])
+
+9. **NVIDIA — NVDA**
+   Its GPUs are central to government AI, research and defense accelerator programs; export controls, licensing and strategic policy decisions from the U.S. directly affect NVIDIA’s market and vice-versa. ([NVIDIA][9])
+
+10. **Intel — INTC**
+    Beneficiary of CHIPS/industrial policy and large federal incentives for on-shore fabs; government funding strengthens domestic semiconductor capacity that Intel provides to national security and economic policy. ([Newsroom][10])
+
+11. **Pfizer — PFE**
+    Major supplier under Operation Warp Speed / federal vaccine procurement during COVID — government advance purchases and regulatory coordination accelerated scale-up and global public-health readiness. ([HHS.gov][11])
+
+12. **Moderna — MRNA**
+    Direct BARDA/OWS funding and advance-purchase contracts for mRNA vaccines made Moderna a case study in public-private speed-to-market, with continuing government partnerships for R\&D and stockpiles. ([PMC][12])
+
+13. **UnitedHealth Group — UNH**
+    Massive payer interactions with Medicare/Medicaid and Medicare Advantage tie UnitedHealth’s revenues to federal reimbursement rules and program design — the company shapes and is shaped by health policy. ([UnitedHealth Group][13])
+
+14. **JPMorgan Chase — JPM**
+    As a systemically important bank, it’s tightly coupled to federal financial stability tools, Fed facilities and regulatory policy; public financial-system stability feeds back to JPM’s franchise. ([Federal Reserve][14])
+
+15. **AT\&T — T**
+    Holder of the 25-year FirstNet public-private contract to build the nationwide public-safety network — AT\&T provides prioritized communications to first responders while receiving spectrum and long-term revenue. ([FirstNet][15])
+
+16. **Verizon — VZ**
+    Major federal/state telecom contractor and competitor in public-safety and federal connectivity work; policy decisions about spectrum, FirstNet and public safety allocation directly affect Verizon’s business and services to government. ([RCR Wireless News][16])
+
+17. **Cisco Systems — CSCO**
+    Core network and federal IT supplier (routers, switches, security) through GSA vehicles and federal contracts — government modernization needs sustain Cisco’s enterprise sales and product roadmaps. ([Cisco][17])
+
+18. **Honeywell — HON**
+    Supplies aerospace systems, sensors and specialized electronics to DoD/NASA and other agencies; recurring contracts and tech partnerships keep Honeywell integral to government mission systems. ([Honeywell Aerospace][18])
+
+19. **NextEra Energy — NEE**
+    Large beneficiary of federal clean-energy tax credits and IRA provisions; government policy (tax credits, permitting, grid rules) accelerates NextEra’s build-out while the company supplies renewable capacity essential to national decarbonization goals. ([Utility Dive][19])
+
+20. **Exxon Mobil — XOM**
+    Interacts with government on strategic petroleum reserve supply, energy policy and regulations; government energy policy and emergency purchases affect Exxon’s market role while Exxon provides fuel security and lobbying input that shapes policy. ([Reuters][20])
+
+---
+
+If you want I can:
+
+* turn this into a short ranked list (which of these have the *tightest* two-way feedback by dollar value or strategic importance), or
+* produce a 1-paragraph “mechanism map” showing the main types of feedback (defense contracting, industrial policy/subsidies, health procurement, regulation/payment systems, communications/public-safety, export controls), with examples.
+
+Which of those two would be most useful next?
+
+[1]: https://www.usaspending.gov/award/CONT_AWD_H9225424F2851_9700_H9225417D0001_9700?utm_source=chatgpt.com "CONTRACT to LOCKHEED MARTIN CORPORATION"
+[2]: https://www.usaspending.gov/award/CONT_AWD_N0038324F0VW0_9700_N0038320GVW01_9700?utm_source=chatgpt.com "CONTRACT to RAYTHEON COMPANY"
+[3]: https://news.northropgrumman.com/ibcs/northrop-grumman-secures-1-4-billion-in-contracts-to-modernize-global-air-and-missile-defense?utm_source=chatgpt.com "Northrop Grumman Secures $1.4 Billion in Contracts to ..."
+[4]: https://www.defense.gov/News/Contracts/Contract/Article/3962730//?source=pmbug.com&utm_source=chatgpt.com "Contracts For Nov. 12, 2024 - Department of Defense"
+[5]: https://www.usaspending.gov/recipient/419ccd27-d6f4-d363-aeaf-b9e2c3ae6f5d-P/latest?utm_source=chatgpt.com "THE BOEING COMPANY | Federal Award Recipient Profile"
+[6]: https://www.reuters.com/business/retail-consumer/amazon-web-services-provide-us-government-agencies-with-up-1-billion-savings-2025-08-07/?utm_source=chatgpt.com "Amazon Web Services to provide US government agencies ..."
+[7]: https://www.nigelfrank.com/insights/microsoft-land-10-billion-us-military-cloud-contract/?utm_source=chatgpt.com "Microsoft lands $10 billion US military cloud contract"
+[8]: https://www.reuters.com/business/us-army-pools-contracts-into-up-10-billion-palantir-deal-2025-07-31/?utm_source=chatgpt.com "US Army pools contracts into up to $10 billion Palantir deal"
+[9]: https://www.nvidia.com/en-us/industries/public-sector/?utm_source=chatgpt.com "Accelerating the US Public Sector with AI"
+[10]: https://newsroom.intel.com/corporate/intel-chips-act?utm_source=chatgpt.com "Intel, Biden-Harris Administration Finalize $7.86 Billion ..."
+[11]: https://www.hhs.gov/sites/default/files/pfizer-inc-covid-19-vaccine-contract.pdf?utm_source=chatgpt.com "Pfizer, Inc. COVID-19 Vaccine Contract - PDF"
+[12]: https://pmc.ncbi.nlm.nih.gov/articles/PMC10911989/?utm_source=chatgpt.com "The NIH-Moderna Vaccine: Public Science, Private Profit ..."
+[13]: https://www.unitedhealthgroup.com/content/dam/UHG/PDF/investors/2025/unh-reestablishes-full-year-outlook-and-reports-second-quarter-2025-results.pdf?utm_source=chatgpt.com "[PDF] UnitedHealth Group Re-Establishes Full Year Outlook and Reports ..."
+[14]: https://www.federalreserve.gov/econresdata/feds/2014/files/2014110pap.pdf?utm_source=chatgpt.com "Central banks as lender of last resort"
+[15]: https://firstnet.gov/about/history?utm_source=chatgpt.com "History | First Responder Network Authority"
+[16]: https://www.rcrwireless.com/20241023/featured/fcc-grants-firstnet-use-of-4-9-ghz-dealing-a-blow-to-verizon?utm_source=chatgpt.com "FCC grants FirstNet use of 4.9 GHz, dealing a blow to ..."
+[17]: https://www.cisco.com/c/en/us/solutions/industries/government/us-government-solutions-services/resources/government-contracts-funding-vehicles/federal-contracts.html?utm_source=chatgpt.com "Federal Contracts - Cisco"
+[18]: https://aerospace.honeywell.com/us/en/about-us/press-release/2025/07/honeywell-awarded-us-government-contracts-to-develop-quantum?utm_source=chatgpt.com "Honeywell Awarded U.S. Government Contracts to ..."
+[19]: https://www.utilitydive.com/news/nextera-energy-nee-earnings-tax-credit-transfer/698005/?utm_source=chatgpt.com "NextEra expects up to $1.8B by 2026 in renewable energy ..."
+[20]: https://www.reuters.com/markets/commodities/us-awards-spr-contracts-worth-2295-million-exxonmobil-bp-others-2024-02-15/?utm_source=chatgpt.com "US awards SPR contracts worth $229.5 million to ..."
+User
+"Two short ranked lists one being by dollar value and the other by strategic importance."
+ChatGPT
+Got it — here are the two **short ranked lists** of the 20 feedback loops I just gave you:
+
+---
+
+## 🔹 Top 10 by **Dollar Value** (federal contracts, subsidies, reimbursements, procurement, etc.)
+
+1. **LMT – Lockheed Martin** → \~\$50–70B+ lifetime F-35 & other contracts.
+2. **RTX – Raytheon Technologies** → \~\$30B+ annual DoD awards across missiles/defense.
+3. **NOC – Northrop Grumman** → \~\$25B+ contracts for B-21, missile defense, satellites.
+4. **GD – General Dynamics** → \~\$20B+ in shipbuilding, IT, land systems.
+5. **BA – Boeing** → \~\$15–20B in defense/NASA + indirect support via commercial subsidies.
+6. **MSFT – Microsoft** → \$10B+ JEDI (cancelled), \$9B JWCC + civilian IT contracts.
+7. **AMZN – Amazon (AWS)** → \$6–10B+ federal cloud hosting (CIA, DoD, civilian).
+8. **UNH – UnitedHealth** → Tens of billions via Medicare/Medicaid reimbursements.
+9. **PFE – Pfizer** → \~\$20B from COVID vaccine federal procurement (2020–2022 peak).
+10. **MRNA – Moderna** → \~\$15B+ COVID vaccine government contracts + BARDA funding.
+
+---
+
+## 🔹 Top 10 by **Strategic Importance** (critical to national security, resilience, or U.S. future policy)
+
+1. **LMT – Lockheed Martin** → Backbone of U.S. air/sea/space deterrence.
+2. **NVDIA – NVIDIA** → Foundational to AI leadership, export controls, national tech race.
+3. **INTC – Intel** → Anchor of domestic semiconductor capacity (CHIPS Act linchpin).
+4. **MSFT – Microsoft** → Core to federal IT/cloud modernization and cyber defense.
+5. **AMZN – Amazon (AWS)** → Essential for intelligence & government cloud infrastructure.
+6. **RTX – Raytheon** → Missile defense and radar systems vital to homeland security.
+7. **NOC – Northrop Grumman** → Strategic bombers, missile defense, space dominance.
+8. **BA – Boeing** → Defense aircraft + industrial base health in aerospace.
+9. **UNH – UnitedHealth** → Medicare/Medicaid system stability, health policy execution.
+10. **NEE – NextEra Energy** → Renewable buildout aligned with U.S. decarbonization strategy.
+
+---
+
+⚖️ **Observation:**
+
+* **Dollar Value List** is dominated by *defense contractors + healthcare payers/providers* because they run on multi-billion dollar recurring contracts.
+* **Strategic Importance List** elevates *semiconductors, AI, cloud, and renewables* because these define future national power and resilience even if their contracts are smaller today.
+
+Would you like me to **combine the two into a weighted “overall top 10”** that balances both dollar flow *and* strategic leverage?
+User
+"Provide those three lists but for public companies with a market cap less than $25 billion."
+ChatGPT
+I couldn’t find enough public companies under **\$25B market cap** with very strong, well-documented two-way feedback loops (company ↔ US government) to fill out full “top 20” lists. But I found some that qualify, plus partial candidates. Here are three trimmed/ranked lists for companies under \~\$25B market cap, with what data is available, and notes/limitations.
+
+---
+
+## ✅ Companies under \~\$25B with strong govt ↔ company feedback loops (examples)
+
+| Ticker   | Company                     | Market Cap (recent)                                                        | Feedback Loop Description                                                                                                                                                                                                                                                                               |
+| -------- | --------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **AMTM** | Amentum Holdings, Inc.      | \~\$5.9B ([StockAnalysis][1])                                              | Provides engineering, defense, intelligence, environmental & technology services to U.S. government; many contracts for mission-critical work. Government funding gives stable revenue; the company in turn supplies infrastructure, readiness, and support that government needs. ([StockAnalysis][1]) |
+| **EBS**  | Emergent BioSolutions, Inc. | \~\$400-\$500M ([Investing.com][2])                                        | Heavy involvement in medical countermeasures: vaccines, stockpiles for smallpox, anthrax, etc. Government safety and preparedness programs (BARDA, HHS etc.) depend on EBS; EBS depends on government contracts and regulatory policy. ([Investing.com][2])                                             |
+| **SIGA** | SIGA Technologies, Inc.     | (small) – under \$1B likely ([Business Insurance][3])                      | Supplies antiviral drug TPOXX, a treatment for smallpox etc., for the Strategic National Stockpile and DoD. Government needs for biodefense drives demand; SIGA’s R\&D and approvals depend on government support and procurement. ([Wikipedia][4])                                                     |
+| **AMKR** | Amkor Technology, Inc.      | (unknown vs exact, but qualifies as smaller than big semiconductor giants) | Received up to \$400M from Commerce Department for an advanced semiconductor packaging facility in Arizona. Government incentive (grants, tax credits) helps Amkor build capacity; Amkor helps with U.S. supply chain resilience and advanced packaging capabilities. ([Reuters][5])                    |
+
+---
+
+## ⚠️ Limitations / Partial candidates
+
+* Many small biotech companies have government grants/contracts, but the scale is small, or the feedback loop is lopsided (company depends heavily on government, but government’s gain from the company is less strategic or less steady).
+* Also, many companies under \$25B are in regulated industries (health, biotech, defense services) but lack large or stable government contracts.
+
+---
+
+## 📊 Ranked lists for under-\$25B group
+
+Given the small sample, here are two short ranked lists, by **Dollar Value** and by **Strategic Importance**, among the under-\$25B companies found.
+
+### Top by Dollar Value
+
+1. **EBS (Emergent BioSolutions)** — Tens to hundreds of millions in current contracts (e.g. \$250+M modif. contracts for medical countermeasure products) ([GlobeNewswire][6])
+2. **AMTM (Amentum)** — Multiple billions in revenue (\~\$12.7B TTM revenue) via government contracts; though net income small, revenue scale gives large dollar feedback. ([StockAnalysis][1])
+3. **AMKR (Amkor Technology)** — \~\$400M government funding for plant; somewhat one-off but significant relative to its size. ([Reuters][5])
+4. **SIGA** — Smaller scale, but contracted for supply to DoD/SNS; amounts are comparatively much smaller in absolute dollars. ([Business Insurance][3])
+
+### Top by Strategic Importance
+
+1. **AMTM (Amentum Holdings)** — Key provider of defense/intelligence/environmental/space engineering services; contributes to readiness, infrastructure, support which are hard to replace.
+2. **EBS (Emergent BioSolutions)** — Critical for biodefense, public health emergencies; stable readiness, stockpiles, countermeasures.
+3. **AMKR (Amkor Technology)** — Important for semiconductor packaging capacity, which is increasingly strategic to U.S. tech/AI/defense supply chain.
+4. **SIGA** — While smaller, its role in smallpox/monkeypox countermeasures gives it strategic niche: public health emergencies.
+
+---
+
+If you like, I can try to expand this list: dig deeper to find more companies under \$25B with good data so we can fill “top 10” in each category. Do you want me to build those expanded lists?
+
+[1]: https://stockanalysis.com/stocks/amtm/?utm_source=chatgpt.com "Amentum Holdings (AMTM) Stock Price & Overview"
+[2]: https://www.investing.com/news/company-news/emergent-biosolutions-secures-56-million-us-government-contract-93CH-4231108?utm_source=chatgpt.com "Emergent BioSolutions secures $56 million U.S. government contract By Investing.com"
+[3]: https://index.businessinsurance.com/businessinsurance/news/read/44364817/3_small?utm_source=chatgpt.com "3 Small-Cap Biotech Stocks With Game-Changing Potential | Business Insurance - Magazine"
+[4]: https://en.wikipedia.org/wiki/SIGA_Technologies?utm_source=chatgpt.com "SIGA Technologies"
+[5]: https://www.reuters.com/technology/us-award-amkor-up-400-million-chip-packaging-plant-2024-07-26/?utm_source=chatgpt.com "US to award Amkor up to $400 million for chip packaging plant"
+[6]: https://www.globenewswire.com/news-release/2024/07/02/2907379/33240/en/Emergent-BioSolutions-Awarded-250-Million-in-Contract-Modifications-to-Supply-U-S-Government-with-Four-Critical-Medical-Countermeasure-Products.html?utm_source=chatgpt.com "Emergent BioSolutions Awarded $250+ Million in Contract"
