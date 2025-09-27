@@ -570,4 +570,66 @@ Perfect — you want the **“early-stage Nvidias”** in each of those 25 secto
 * **Early-stage equivalents (this list)** = the *emerging disruptors* that could redefine their sectors if they scale.
 
 Would you like me to now create a **side-by-side comparison table** (leaders vs. early-stage equivalents, with sector + explanation in one view)? That would make it easy to scan.
+-(ChatGPT 9/27/2025) "List 25 public pharmaceutical AI companies with major financial and R&D potential."
+ChatGPT
+Nice — below are **25 publicly traded companies** that use AI as a core part of their drug-discovery, biologics design, or R&D stack (I mixed *pure-play AI drug-discovery companies* with *big pharm and platform/infra companies* that are deploying AI at scale). For each I give the ticker (when public) and a short note on why they have **financial + R&D potential**.
+
+> Important: I looked up the top, most load-bearing company facts and cited sources for the five companies that most often anchor investor / R&D narratives in this space (Recursion, Schrödinger, Relay, AbCellera, Ginkgo).
+
+---
+
+1. **Recursion Pharmaceuticals (RXRX)** — pure-play AI + high-throughput biology platform; generates large proprietary datasets and partners with big pharma (strong R&D pipeline leverage). ([recursion.com][1])
+2. **Schrödinger (SDGR)** — physics-based computational chemistry + ML; platform licensed by big pharma and large potential milestone/collaboration revenue. ([Schrödinger][2])
+3. **Relay Therapeutics (RLAY)** — computationally driven small-molecule discovery focused on protein motion and structure; strong R&D pipeline potential. ([Yahoo Finance][3])
+4. **AbCellera Biologics (ABCL)** — AI-powered antibody discovery platform with numerous partner deals; platform business + royalties provides financial upside. ([Reuters][4])
+5. **Exscientia (EXAI)** — AI-first small-molecule design company (recent M&A/news events have materially affected its standalone status — check current corporate filings before trading). ([The Times][5])
+6. **Ginkgo Bioworks (DNA)** — synthetic-biology foundry using automated labs + ML to accelerate biologics and biologics-support discovery; platform scale and partner ecosystem. ([Yahoo Finance][6])
+7. **BioNTech (BNTX)** — mRNA leader that has built significant AI/ML capabilities for R&D and vaccine/therapeutic R&D acceleration. ([biontech.com][7])
+8. **Moderna (MRNA)** — large-cap mRNA company applying ML across design, development, and translational R&D (big balance sheet + platform leverage).
+9. **Eli Lilly (LLY)** — major pharma investing heavily in internal AI platforms and external AI partnerships to speed target ID and candidate selection. ([Reuters][8])
+10. **Novo Nordisk (NVO)** — global pharma using AI in discovery and partnering with AI drug-discovery firms (large commercial footprint gives huge upside to successful AI programs). ([Reuters][9])
+11. **Pfizer (PFE)** — massive R&D engine that is integrating AI across discovery, clinical trial optimization and real-world evidence.
+12. **Johnson & Johnson (JNJ)** — clinical and device R&D plus platform investments in AI for discovery and diagnostics.
+13. **Bayer AG (BAYRY / BAYN.DE)** — life-science R&D groups investing in computational discovery and partnerships with AI startups.
+14. **Vertex Pharmaceuticals (VRTX)** — strong computational biology investments for small-molecule and gene-editing programs.
+15. **XtalPi (if public listing status applies)** — AI-driven crystal/molecule design firm (status varies by listing; check current market listing).
+16. **Insitro (monitor IPO/market status)** — data + ML-centric drug discovery company (has strategic partnerships with big pharma; watch public listing status).
+17. **Tempus (watch listing/status)** — precision-medicine data + ML; strong clinical/RWE value to partners (check current public status).
+18. **Biosero / Lab automation platform plays (public integrators)** — companies that commercialize automated workflows and data infrastructures that enable AI drug discovery (various tickers depending on exact firm).
+19. **NVIDIA (NVDA)** — not a pharma firm but **the** AI compute backbone for drug discovery (GPU & AI stack suppliers are financially leveraged to the sector’s growth).
+20. **Alphabet / Isomorphic Labs (DeepMind / Alphabet ecosystem)** — Alphabet’s bio AI initiatives and Isomorphic Labs (Alphabet-owned) are funneling major R&D capability into computational drug design (Alphabet ticker: GOOGL). ([New York Post][10])
+21. **Tempus / other diagnostics & RWE public firms** — firms building clinical data platforms that are essential to ML-driven target validation and trial optimization (tickers vary).
+22. **Biotech contract-research and IT platform companies (e.g., ICON, IQVIA)** — these public CRO/data companies are integrating AI into trial design and real-world evidence generation (IQV: IQV / ICON: ICLR).
+23. **PathAI / if it goes public** — pathology AI with direct diagnostic and biomarker implications for drug R&D (monitor IPO status).
+24. **Atomwise / if it goes public** — deep-learning small-molecule design company (private historically — include if/when public).
+25. **Other emerging/IPO candidates to watch** — a set of fast-moving specialist firms (Generate Biomedicines, Nimbus, Model Medicines, Iktos, Anima Biotech, etc.) where public/private status can change rapidly — high R&D upside if/when they list.
+
+---
+
+# How I grouped these and why
+
+* **Pure-play AI drug-discovery platforms** (e.g., Recursion, Exscientia, Schrödinger, Relay, AbCellera): *direct exposure* to the success of AI-designed molecules and platform licensing.
+* **Large pharm (e.g., Lilly, Pfizer, Novo, Moderna, BioNTech)**: *deep pockets + ability to scale* — they’ll commercialize successful AI-enabled programs and can buy small AI leaders.
+* **Platform & infra providers (NVIDIA, CROs, synthetic-biology foundries)**: they are *indirect but powerful* financial plays because the whole sector needs compute, data pipelines, and lab automation.
+* **Watchlist / IPO candidates**: many of the most interesting pure-play AI companies are still private or have recently changed status — these are high upside but require checking current listing status before investing.
+
+---
+
+# Next useful steps (I can do now)
+
+* If you want, I can **turn this into a sortable table** (ticker, HQ, market cap band, public vs private/IPO status, one-line R&D thesis) and surface live tickers / links for the ones that are definitely public today.
+* Or I can **narrow to 10 pure-play, currently public AI drug-discovery companies** with stronger citations and current market metrics (market cap, latest major partnerships, pipeline highlights).
+
+Which would you prefer?
+
+[1]: https://www.recursion.com/?utm_source=chatgpt.com "Recursion: Pioneering AI Drug Discovery"
+[2]: https://www.schrodinger.com/?utm_source=chatgpt.com "Schrödinger - Physics-based Software Platform for Molecular ..."
+[3]: https://finance.yahoo.com/quote/RLAY/?utm_source=chatgpt.com "Relay Therapeutics, Inc. (RLAY) Stock Price, News, Quote ..."
+[4]: https://www.reuters.com/markets/companies/ABCL.O/?utm_source=chatgpt.com "ABCL.O - | Stock Price & Latest News"
+[5]: https://www.thetimes.co.uk/article/exscientia-bought-for-688m-by-american-pharma-business-recursion-lwxxrjdzl?utm_source=chatgpt.com "Exscientia bought for $688m by American pharma business Recursion"
+[6]: https://finance.yahoo.com/quote/DNA/?utm_source=chatgpt.com "Ginkgo Bioworks Holdings, Inc. (DNA) Stock Price, News, ..."
+[7]: https://www.biontech.com/int/en/home/about/history.html?utm_source=chatgpt.com "Our history"
+[8]: https://www.reuters.com/business/healthcare-pharmaceuticals/eli-lilly-launches-platform-ai-enabled-drug-discovery-2025-09-09/?utm_source=chatgpt.com "Eli Lilly launches platform for AI-enabled drug discovery"
+[9]: https://www.reuters.com/business/healthcare-pharmaceuticals/novo-nordisk-expands-ai-partnership-with-valo-health-development-obesity-drugs-2025-01-08/?utm_source=chatgpt.com "Novo Nordisk expands AI partnership with Valo Health for development of obesity drugs"
+[10]: https://nypost.com/2025/03/31/business/alphabets-isomorphic-labs-raises-600m-for-ai-drug-business/?utm_source=chatgpt.com "Alphabet's Isomorphic Labs raises $600M in first funding round for AI drug business"
 
